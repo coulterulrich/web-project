@@ -48,4 +48,10 @@ div {
 body {
   padding: 20px;
   font-size: 1.2em;
+  background-color: #f9f8eb;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
 }

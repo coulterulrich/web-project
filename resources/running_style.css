@@ -7,7 +7,7 @@
 */
 
 body {
-	background-color: #FDF0E0;
+	background-color: #f9f8eb;
 	padding: 0 24px 36px 24px;
 }
 
@@ -45,4 +45,9 @@ table {
 	border-collapse: collapse;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
 }

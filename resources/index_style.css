@@ -1,0 +1,74 @@
+/* 
+    blue: #0477BF
+    red: #A61C28
+    teal: #2D8289
+    green: #62810F
+    orange: #D14905
+*/
+
+body {
+    font-size: 1.2em;
+    padding: 20px;
+    background-color: #f9f8eb;
+}
+
+#hotel {
+    width: 750px;
+    height: auto;
+    border: 10px solid #A61C28;
+}
+
+#wedding {
+    width: 300px;
+    height: auto;
+    margin-left: 30px;
+    border: 5px solid #2D8289
+}
+
+#dance {
+    width: 300px;
+    height: auto;
+    margin-right: 30px;
+    border: 5px solid #2D8289
+}
+
+div {
+    margin: auto;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+td {
+    border: 3px solid #62810F;
+    padding: 5px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+div.container {
+    text-align: center;
+    margin-top: 10px;
+    border: 5px solid #D14905;
+    background-color: #2D8289;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+}
+
+p.text {
+    width: 850px;
+}
